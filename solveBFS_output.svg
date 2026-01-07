@@ -1,0 +1,94 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="200" height="200" style ="fill:gray;"/>
+<style>rect{fill:white;stroke:black;stroke-width:2;}text{text-anchor:middle;font-family:monospace;dominant-baseline:middle;}</style>
+<rect x="0" y="0" width="50" height="50">
+<animate attributeName="y" from="0" to="50" begin="2.4s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="25" y="25" font-size="20">5
+<animate attributeName="y" from="25" to="75" begin="2.4s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="50" y="0" width="50" height="50">
+<animate attributeName="x" from="50" to="0" begin="2.7s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="75" y="25" font-size="20">1
+<animate attributeName="x" from="75" to="25" begin="2.7s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="100" y="0" width="50" height="50">
+<animate attributeName="x" from="100" to="50" begin="3s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="125" y="25" font-size="20">2
+<animate attributeName="x" from="125" to="75" begin="3s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="150" y="0" width="50" height="50">
+<animate attributeName="x" from="150" to="100" begin="3.3s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="175" y="25" font-size="20">3
+<animate attributeName="x" from="175" to="125" begin="3.3s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="0" y="50" width="50" height="50">
+<animate attributeName="y" from="50" to="100" begin="2.1s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="25" y="75" font-size="20">9
+<animate attributeName="y" from="75" to="125" begin="2.1s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="50" y="50" width="50" height="50">
+<animate attributeName="y" from="50" to="100" begin="0s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="75" y="75" font-size="20">10
+<animate attributeName="y" from="75" to="125" begin="0s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="100" y="50" width="50" height="50">
+<animate attributeName="x" from="100" to="50" begin="0.3s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="125" y="75" font-size="20">6
+<animate attributeName="x" from="125" to="75" begin="0.3s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="150" y="50" width="50" height="50">
+<animate attributeName="y" from="50" to="0" begin="3.6s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="175" y="75" font-size="20">4
+<animate attributeName="y" from="75" to="25" begin="3.6s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="0" y="100" width="50" height="50">
+<animate attributeName="y" from="100" to="150" begin="1.8s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="25" y="125" font-size="20">13
+<animate attributeName="y" from="125" to="175" begin="1.8s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="100" y="100" width="50" height="50">
+<animate attributeName="y" from="100" to="50" begin="0.6s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="125" y="125" font-size="20">7
+<animate attributeName="y" from="125" to="75" begin="0.6s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="150" y="100" width="50" height="50">
+<animate attributeName="y" from="100" to="50" begin="3.9s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="175" y="125" font-size="20">8
+<animate attributeName="y" from="125" to="75" begin="3.9s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="0" y="150" width="50" height="50">
+<animate attributeName="x" from="0" to="50" begin="1.5s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="25" y="175" font-size="20">14
+<animate attributeName="x" from="25" to="75" begin="1.5s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="50" y="150" width="50" height="50">
+<animate attributeName="x" from="50" to="100" begin="1.2s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="75" y="175" font-size="20">15
+<animate attributeName="x" from="75" to="125" begin="1.2s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="100" y="150" width="50" height="50">
+<animate attributeName="y" from="150" to="100" begin="0.9s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="125" y="175" font-size="20">11
+<animate attributeName="y" from="175" to="125" begin="0.9s" dur="0.3s" fill="freeze" />
+</text>
+<rect x="150" y="150" width="50" height="50">
+<animate attributeName="y" from="150" to="100" begin="4.2s" dur="0.3s" fill="freeze" />
+</rect>
+<text x="175" y="175" font-size="20">12
+<animate attributeName="y" from="175" to="125" begin="4.2s" dur="0.3s" fill="freeze" />
+</text>
+</svg>
