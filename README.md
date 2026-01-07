@@ -1,7 +1,6 @@
 # 15-puzzle-solver
 
 Graph-based 15 puzzle solver using Breadth-First Search (BFS) and A* search with heuristic optimization and SVG visualization.
-
 ---
 
 ## Overview
@@ -85,3 +84,5 @@ mkdir build
 cd build
 cmake ..
 make
+
+A detailed explanation of the 15 Puzzle is available on Wikipedia: https://en.wikipedia.org/wiki/15_puzzle
